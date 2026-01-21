@@ -133,3 +133,4 @@ USE_TZ = True
 STATIC_URL = 'static/'
 # Configuração para imprimir e-mails no terminal (para testes)
 EMAIL_BACKEND = 'django.core.mail.backends.console.EmailBackend'
+# Forcando atualizacao do Render
